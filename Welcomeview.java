@@ -1,6 +1,8 @@
 
 class Welcomeview {
+    String title = "Welcom to my app";
     int visits =0;
+    
     Welcomeview(){
         System.out.println("HI");
         System.out.println("Bye");
