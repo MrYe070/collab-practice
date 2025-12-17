@@ -2,6 +2,7 @@
 class Welcomeview {
     String title = "Welcom to my app";
     int visits =0;
+    double height =120;
     
     Welcomeview(){
         System.out.println("HI");
